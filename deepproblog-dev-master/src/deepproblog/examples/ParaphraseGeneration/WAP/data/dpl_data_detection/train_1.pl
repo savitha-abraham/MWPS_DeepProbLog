@@ -1,0 +1,1 @@
+detectSim("Michael has n0 blocks stored in boxes . If there are n1 boxes , how many blocks must go in each box ?","Ted has n0 candy bars . He wants to put them into n1 bags so there are the same number of candy bars in each bag . How many candy bars should go in each bag ?","X=n0/n1","X=n0/n1",1).

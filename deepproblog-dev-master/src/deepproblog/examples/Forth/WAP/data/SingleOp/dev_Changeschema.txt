@@ -1,0 +1,24 @@
+wap("Megan has 19 seashells. How many more seashells does she need to find to have 25 seashells in her collection?",25,19,6.0).
+wap("If there are 7 eggs in a box and Daniel puts 4 more eggs inside, how many eggs are in the box?",7,4,11.0).
+wap("Lucy has 212 fish. How many more fish does she need to buy to have 280 fish?",280,212,68.0).
+wap("If there are 7 bottle caps in a box and Linda puts 8 more bottle caps inside, how many bottle caps are in the box?",7,7,15.0).
+wap("Aaron starts with 81 erasers. He gives 34 to Doris. How many erasers does Aaron end with?",81,34,47.0).
+wap("Diana starts with 65 bottle caps. 4 are eaten by a hippopotamus. How many bottle caps does Diana end with?",65,4,61.0).
+wap("Lillian collects 88 candies. Lillian's father gives Lillian 5 more. How many candies does Lillian have?",88,5,93.0).
+wap("Brandon has 96 Skittles. Bonnie has 4 Skittles. He loses 9. How many Skittles will Brandon have?",96,9,87.0).
+wap("Tina has 82 bananas. She gets 3 more from Joyce. How many bananas does Tina have in all?",82,3,85.0).
+wap("There are 97 erasers in a box. Ernest has 17 erasers in a bag. Mark takes 96 erasers out of the box. How many erasers are left in the box?",97,96,1.0).
+wap("Clarence has 5 oranges. He gets 3 more from Joyce. Later, Clarence buys 9 Skittles at the store. How many oranges does Clarence have in all?",5,3,8.0).
+wap("Mariela was in the hospital and she got 403 get well cards from around the country. When she got home she got 287 more cards from friends and family. How many get well cards did Mariela get?",403,287,690.0).
+wap("Nicholas starts with 8 bottle caps. He gets 85 more from Catherine. How many bottle caps does Nicholas end with?",8,85,93.0).
+wap("Lisa starts with 91 bananas. Maria gives Lisa 8 more. How many bananas does Lisa end with?",91,8,99.0).
+wap("Pamela starts with 30 bottle caps. Jean takes 26 away. How many bottle caps does Pamela end with?",30,26,4.0).
+wap("Isabella's hair is 18 cubes long. If her hair grows 4 more inches, how long will it be?",18,4,22.0).
+wap("Josh had 142 pencils. He gave 31 pencils to Dorothy. How many pencils does Josh have left?",142,31,111.0).
+wap("Katherine has 34 bottle caps. 8 are eaten by a hippopotamus. How many bottle caps will Katherine have?",34,8,26.0).
+wap("Connie had some marbles. She gave 183 to Juan. Now she has 593 marbles left. How many did she have to start with?",183,593,776.0).
+wap("Janet has 57 apples. She finds another 95. How many apples does Janet have in all?",57,95,152.0).
+wap("Mrs. Hilt looked at her car's odometer before a trip. The odometer showed that she had traveled 212.3 miles. When she stopped for lunch, the odometer read 372.0. How many miles had she traveled?",372.0,212.3,159.7).
+wap("Jovana had 5 pounds of shells in her bucket. She added some shells and now has 28 pounds of shells. How many pounds did she add?",28,5,23.0).
+wap("Cade had 87 marbles. He gave 8 to Dylan. How many does he have left?",87,8,79.0).
+wap("Helen starts with 82 cards. Gary takes 9 away. How many cards does Helen end with?",82,9,73.0).

@@ -1,0 +1,6 @@
+text1,text2,equation1,equation2,category
+"Albert 's cabbage patch has some rows of cabbage . In each row , there are n0 heads of cabbage . How many rows does he have if there are n1 heads of cabbage in all ?",Marie can bike at a speed of n0 miles an hour . How many hours does she take to bike n1 miles ?,X=n1/n0,X=n1/n0,1
+"Albert 's cabbage patch has some rows of cabbage . In each row , there are n0 heads of cabbage . How many rows does he have if there are n1 heads of cabbage in all ?",Tammy drove n0 miles in n1 hour . How many hours did she drive to cover n2 miles ?,X=n1/n0,X=n2/n0,1
+"Albert 's cabbage patch has some rows of cabbage . In each row , there are n0 heads of cabbage . How many rows does he have if there are n1 heads of cabbage in all ?",It takes n0 apples to make a pie . How many pies did John make if he used n1 apples ?,X=n1/n0,X=n1/n0,1
+"Albert 's cabbage patch has some rows of cabbage . In each row , there are n0 heads of cabbage . How many rows does he have if there are n1 heads of cabbage in all ?",Frank worked n0 hours each day . He worked for n1 hours in all . How many days did he work ?,X=n1/n0,X=n1/n0,1
+Marie can bike at a speed of n0 miles an hour . How many hours does she take to bike n1 miles ?,Tammy drove n0 miles in n1 hour . How many hours did she drive to cover n2 miles ?,X=n1/n0,X=n2/n0,1

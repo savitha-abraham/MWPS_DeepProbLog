@@ -1,0 +1,3 @@
+wap([["Liz", "had", "red", "apples"], ["Liz", "gave",  "red", "apples","Joan"], ["Joan", "has", "red", "apples"],  ["red", "apples", "did", "Joan", "have"]],[[0,2,9],[1, 2, 6], [2,2,11]], start, 5.0).
+wap([["Liz", "had", "red", "apples"], ["Liz", "gave",  "red", "apples","Joan"], ["Joan", "has", "red", "apples"], ["Liz", "has", "red", "apples"], ["red", "apples", "Liz", "give", "Joan"]],[[0, 2,10], [2,2,11], [3,2,3]], inter, 7.0).
+wap([["Liz", "had", "red", "apples"], ["Liz", "gave",  "red", "apples","Joan"], ["Joan", "has", "red", "apples"], ["Liz", "has", "red", "apples"], ["red", "apples", "Liz", "give", "Joan"]],[[0, 2,9], [2,2,11], [3,2,3]], inter, 6.0).

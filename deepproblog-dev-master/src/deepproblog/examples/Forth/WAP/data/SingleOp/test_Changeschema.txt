@@ -1,0 +1,23 @@
+wap("If there are 7 bottle caps in a box and Linda puts 7 more bottle caps inside, how many bottle caps are in the box?",7,7,14.0).
+wap("Carson's teacher gives out gold stars for great math work. Yesterday, Carson earned 6 gold stars. Today, he earned 9 more. How many gold stars did Carson earn in all?",6,9,15.0).
+wap("There are 22 oranges in a box. Paula takes 7 oranges. How many are left?",22,7,15.0).
+wap("On the first day of the week Pat had 39 stickers. Pat earned 22 more during the week. How many stickers did Pat have at the end of the week?",39,22,61.0).
+wap("Kenneth has 3 marbles. He buys 6 more. Later, Kenneth buys 15 apples at the store. How many marbles does Kenneth have in all?",3,6,9.0).
+wap("22 boys went down the slide. 13 more boys went down the slide. How many boys went down the slide?",22,13,35.0).
+wap("William has 2 bottle caps. He buys 41 more. How many bottle caps does William have in all?",2,41,43.0).
+wap("There are 2 apples in a pile on the desk. Each apple comes in a package of 7. 4 apples are added to the pile. How many apples are there in the pile?",2,4,6.0).
+wap("Gary had 73 dollars. He spent 55 dollars on a pet snake. How many dollars did Gary have left?",73,55,18.0).
+wap("30 dogs are barking. 10 more dogs start to bark. How many dogs are barking?",30,10,40.0).
+wap("Kimberly has 5 Skittles. She buys 7 more. Later, Kimberly buys 18 oranges at the store. How many Skittles does Kimberly have in all?",5,7,12.0).
+wap("There are 8 oranges. 8 oranges more are added. How many are there total?",8,8,16.0).
+wap("Todd has some gum. Steve gave him 16 more pieces of gum. Now Todd has 54 pieces of gum. How many pieces did Todd have to start with?",54,16,38.0).
+wap("Sarah has 26 bottle caps. She buys 3 more. How many bottle caps does Sarah have in all?",26,3,29.0).
+wap("James ate 22 carrot sticks before dinner and 15 more after dinner. How many carrot sticks did he eat?",22,15,37.0).
+wap("There are 4 cards. 3 cards more are added. How many are there total?",4,3,7.0).
+wap("Emily collects 63 cards. Emily's father gives Emily 7 more. Bruce has 13 apples. How many cards does Emily have?",63,7,70.0).
+wap("Mrs. Sheridan has 22 fish. Her sister gave her 47 more fish. How many fish does she have now?",22,47,69.0).
+wap("Kelly has 121 Nintendo games. How many does she need to give away so that she will have 22 games left?",121,22,99.0).
+wap("Tim had 50 cents. He paid 45 cents for a candy bar. How much change will he get?",50,45,5.0).
+wap("Brian has 76 cards. Wayne takes 59 away. How many cards will Brian have?",76,59,17.0).
+wap("Annie starts with 4 crayons. Matthew gives Annie 36 more. How many crayons does Annie end with?",4,36,40.0).
+wap("Isabella's hair is 18 inches long. By the end of the year her hair is 24 inches long. How much hair did she grow?",24,18,6.0).

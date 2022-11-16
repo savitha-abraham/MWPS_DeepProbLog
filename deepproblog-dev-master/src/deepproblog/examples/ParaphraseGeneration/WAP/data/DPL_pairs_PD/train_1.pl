@@ -1,0 +1,1 @@
+detectSim("Mrs. Hilt baked pies last weekend for a holiday dinner . She baked n0 apples pies . If she wants to arrange all of the pies in rows of n1 pies each , how many rows will she have ?","A cereal box holds n0 cups of cereal . Each serving is n1 cups . How many servings are in the whole box ?","X=n0/n1","X=n0/n1",1).

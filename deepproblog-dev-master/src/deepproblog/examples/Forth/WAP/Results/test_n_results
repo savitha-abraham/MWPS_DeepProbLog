@@ -1,0 +1,123 @@
+Input sentence: Steve has n_1 oranges. He shares n_2 with Patrick. How many oranges will Steve have?
+Decoded sentence: X=n_1-n_2
+
+
+-
+Input sentence: Andrew starts with n_1 eggs. He buys n_2 more. How many eggs does Andrew end with?
+Decoded sentence: X=n_1+n_2
+
+-
+Input sentence: Jason had Pokemon cards. He gave n_1 to his friends. He now has n_2 Pokemon cards. How many Pokemon cards did he have to start with?
+Decoded sentence: X=n_1-n_2
+
+-
+Input sentence: Joan found n_1 seashells on the beach. She gave Sam some of her seashells. She has n_2 seashell. How many seashells did she give to Sam?
+Decoded sentence: X=n_1-n_2
+
+-
+Input sentence: There were n_1 bales of hay in the barn. Tim stacked bales in the barn today. There are now n_2 bales of hay in the barn. How many bales did he store in the barn?
+Decoded sentence: X=n_2-n_1
+
+-
+Input sentence: There are n_1 walnut trees currently in the park. Park workers will plant walnut trees today. When the workers are finished there will be n_2 walnut trees in the park. How many walnut trees did the workers plant today?
+Decoded sentence: X=n_2-n_1
+
+-
+Input sentence: Mike had n_1 peaches at his roadside fruit dish. He went to the orchard and picked peaches to stock up. There are now n_2 peaches. How many did he pick?
+Decoded sentence: X=n_2-n_1
+
+-
+Input sentence: There were n_1 roses in the vase. Mary cut some roses from her flower garden. There are now n_2 roses in the vase. How many roses did she cut?
+Decoded sentence: X=n_2-n_1
+
+-
+Input sentence: Diana starts with n_1 bottle caps. n_2 are eaten by a hippopotamus. How many bottle caps does Diana end with?
+Decoded sentence: X=n_1-n_2
+
+-
+Input sentence: Lillian collects n_1 candies. Lillian's father gives Lillian n_2 more. How many candies does Lillian have?
+Decoded sentence: X=n_1+n_2
+
+-
+Input sentence: Adam has n_1 blocks. Ann has with n_2 blocks. Ann finds another n_3. How many blocks does Ann end with?
+Decoded sentence: X=n_2+n_3
+
+-
+Input sentence: Helen starts with n_1 oranges. She gets n_2 more from Ann. How many oranges does Helen end with?
+Decoded sentence: X=n_1+n_2
+
+-
+Input sentence: Ralph starts with n_1 peanuts. He loses n_2. How many peanuts does Ralph end with?
+Decoded sentence: X=n_1-n_2
+
+-
+Input sentence: Brenda starts with n_1 Skittles. She buys n_2 more. How many Skittles does Brenda end with?
+Decoded sentence: X=n_1+n_2
+
+-
+Input sentence: Shirley starts with n_1 eggs. She buys n_2 more. How many eggs does Shirley end with?
+Decoded sentence: X=n_1+n_2
+
+-
+Input sentence: Sara has n_1 marbles. She loses n_2. How many marbles will Sara have?
+Decoded sentence: X=n_1-n_2
+
+-
+Input sentence: Jack starts with n_1 marbles. He shares n_2 with Rebecca. How many marbles does Jack end with?
+Decoded sentence: X=n_1-n_2
+
+-
+Input sentence: n_1 owls were sitting on the fence. n_2 more owls joined them. How many owls are on the fence now?
+Decoded sentence: X=n_1+n_2
+
+-
+Input sentence: Michael has some fish in his fish tank. Ben gave him n_1 more fish. Now he has n_2. How many fish did he have to begin with?
+Decoded sentence: X=n_1+n_2
+
+-
+Input sentence: There were n_1 students riding on the school bus. At the first stop, n_2 students got off of the bus. How many students are left on the bus?
+Decoded sentence: X=n_1-n_2
+
+-
+Input sentence: Donald has n_1 oranges. He finds another n_2. How many oranges does Donald have in all?
+Decoded sentence: X=n_1-n_2
+
+-
+Input sentence: Mary had n_1 potatoes in the garden. The rabbits ate n_2 of the potatoes. How many potatoes does Mary now have?
+Decoded sentence: X=n_1-n_2
+
+-
+Input sentence: Dan has n_1 violet marbles. He gave Mary n_2 of the marbles. How many violet marbles does he now have?
+Decoded sentence: X=n_1-n_2
+
+-
+Input sentence: There are n_1 popular trees currently in the park. Park workers will plant n_2 popular trees today. How many popular trees will the park have when the workers are finished?
+Decoded sentence: X=n_1+n_2
+
+-
+Input sentence: Rina has n_1 oranges. Russell gives n_2 more. How many oranges will Rina have?
+Decoded sentence: X=n_1-n_2
+
+-
+Input sentence: Tim 's cat had kittens. He gave n_1 to Jessica. He now has n_2 kittens. How many kittens did he have to start with?
+Decoded sentence: X=n_1+n_2
+
+-
+Input sentence: Melanie had n_1 dimes in her bank. Her dad gave her n_2 dimes. How many dimes does Melanie have now?
+Decoded sentence: X=n_1-n_2
+
+-
+Input sentence: There are n_1 dogwood trees currently in the park. Park workers will plant n_2 dogwood trees today. How many dogwood trees will the park have when the workers are finished?
+Decoded sentence: X=n_1+n_2
+
+-
+Input sentence: There are n_1 dogwood trees currently in the park. Workers will plant n_2 dogwood trees tomorrow. How many dogwood trees will the park have when the workers are finished?
+Decoded sentence: X=n_1+n_2
+
+-
+Input sentence: Melanie had n_1 dimes in her bank. Her mother gave her n_2 dimes. How many dimes does Melanie have now?
+Decoded sentence: X=n_1-n_2
+
+-
+Input sentence: Sally had n_1 Pokemon cards. Dan gave her n_2 new Pokemon cards. How many Pokemon cards does Sally have now?
+Decoded sentence: X=n_1-n_2
